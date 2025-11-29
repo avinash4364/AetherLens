@@ -172,7 +172,7 @@ button {
   width: 100%;
   height: 30rem;
   object-fit: cover;
-  border: 5px solid var(--secondary-color);
+  /* border: 5px solid var(--secondary-color); */
   border-radius: var(--medium);
 }
 
@@ -186,7 +186,7 @@ button {
 
 .features-info span.bold {
   font-weight: 700;
-  color: var(--secondary-color);
+  color: var(--primary-color);
 }
 
 .quote {
